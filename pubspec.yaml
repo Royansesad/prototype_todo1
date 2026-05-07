@@ -1,0 +1,89 @@
+name: prototype_todo1
+description: "Aplikasi To-Do minimalis dan premium."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.4
+  uuid: ^4.5.1
+  intl: ^0.19.0
+  flutter_animate: ^4.5.2
+  fl_chart: ^0.70.2
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  path: ^1.9.0
+  permission_handler: ^11.3.0
+  flutter_svg: ^2.0.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app-icon.jpeg"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icon.svg
+    - assets/app-icon.jpeg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: google_fonts/Poppins-Thin.ttf
+          weight: 100
+        - asset: google_fonts/Poppins-ThinItalic.ttf
+          weight: 100
+          style: italic
+        - asset: google_fonts/Poppins-ExtraLight.ttf
+          weight: 200
+        - asset: google_fonts/Poppins-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: google_fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: google_fonts/Poppins-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: google_fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: google_fonts/Poppins-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: google_fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: google_fonts/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: google_fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: google_fonts/Poppins-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: google_fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: google_fonts/Poppins-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: google_fonts/Poppins-ExtraBold.ttf
+          weight: 800
+        - asset: google_fonts/Poppins-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: google_fonts/Poppins-Black.ttf
+          weight: 900
+        - asset: google_fonts/Poppins-BlackItalic.ttf
+          weight: 900
+          style: italic
