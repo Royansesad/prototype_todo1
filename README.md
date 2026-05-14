@@ -6,7 +6,7 @@ Aplikasi To-Do minimalis dan premium dengan fitur autentikasi.
 
 Tonton video panduan berikut untuk melihat cara menggunakan aplikasi:
 
-[![Panduan Aplikasi Prototype To-Do](https://placehold.co/800x450/1e1e1e/white?text=▶️+Tonton+Video+Tutorial)](https://youtu.be/gAnZHc_QmCg)
+[![Panduan Aplikasi Prototype To-Do](https://img.youtube.com/vi/gAnZHc_QmCg/hqdefault.jpg)](https://youtu.be/gAnZHc_QmCg)
 
 ## 🌟 Fitur Utama
 
