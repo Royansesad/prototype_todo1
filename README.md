@@ -1,8 +1,14 @@
-# prototype_todo1
+# Prototype To-Do 1
 
 Aplikasi To-Do minimalis dan premium dengan fitur autentikasi.
 
-## Fitur
+## 📺 Panduan Aplikasi (Video Tutorial)
+
+Tonton video panduan berikut untuk melihat cara menggunakan aplikasi:
+
+[![Panduan Aplikasi Prototype To-Do](https://img.youtube.com/vi/gAnZHc_QmCg/maxresdefault.jpg)](https://youtu.be/gAnZHc_QmCg)
+
+## 🌟 Fitur Utama
 
 - ✅ Manajemen tugas (Task Manager)
 - ✅ Perencanaan (Plan)
@@ -12,7 +18,7 @@ Aplikasi To-Do minimalis dan premium dengan fitur autentikasi.
 - ✅ Dark/Light mode
 - ✅ Notifikasi & pengingat
 
-## Fitur Autentikasi
+## 🔐 Fitur Autentikasi
 
 ### Login
 - Masuk dengan email dan password
